@@ -45,3 +45,7 @@ $ npm run deploy
 Esta plantilla fue creada como parte del [curso de programacion](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) de 4Geeks Academy por [Alejandro Sanchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Descubre más sobre nuestro [Curso de Desarrollador Full Stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack?lang=es), [Bootcamp de Ciencia de Datos](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning?lang=es) o [Curso de Ciberseguridad](https://4geeksacademy.com/es/coding-bootcamps/curso-ciberseguridad?lang=es).
 
 Puedes encontrar otras plantillas y recursos como este en la [página de GitHub de la escuela](https://github.com/4geeksacademy/).
+
+## Autores y Descripción
+- *Nataly Castañeda*
+- *Descripcion*: Este protyecto contiene el Generador de Nombres de Dominios, agregando como extra la extension de dominio de forma aleatoria el cual podras ver en la conosola.
