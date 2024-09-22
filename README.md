@@ -51,3 +51,7 @@ Very easy and in just one step!  Push to your __main__ branch and use the free h
 This template was built as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) or [CyberSecurity Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/cybersecurity)
 
 You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
+
+## Authors and Description
+- *Nataly Castañeda
+- *Description*: This project contains the Domain Name Generator, adding as extra the domain extension in a random way which you can see in the console.
