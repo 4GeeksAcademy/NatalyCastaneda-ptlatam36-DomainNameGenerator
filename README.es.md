@@ -48,4 +48,4 @@ Puedes encontrar otras plantillas y recursos como este en la [página de GitHub 
 
 ## Autores y Descripción
 - *Nataly Castañeda*
-- *Descripcion*: Este protyecto contiene el Generador de Nombres de Dominios, agregando como extra la extension de dominio de forma aleatoria el cual podras ver en la conosola.
+- *Descripción*: Este proyecto contiene el Generador de Nombres de Dominios, agregando como extra la extensión de dominio de forma aleatoria, la cual podrás ver en la consola.
